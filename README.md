@@ -45,8 +45,8 @@ This project integrates **Langflow** for customer support automation using a cha
 
 ### 1. **Clone the Repository**
 ```bash
-$ git clone https://github.com/your-repo/customer-support-bot.git
-$ cd customer-support-bot
+$ git clone https://github.com/muzaffar401/Langflow-Customer-Support-Agent.git
+$ cd Langflow-Customer-Support-Agent
 ```
 
 ### 2. **Install Dependencies**
